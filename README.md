@@ -5,6 +5,7 @@ Shows weird behavior with RN + cljs-devtools
 
 ```sh
 npm install
+re-natal use-figwheel
 lein figwheel ios
 # in new shell
 react-native run-ios
